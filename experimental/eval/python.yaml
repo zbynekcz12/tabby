@@ -1,2 +1,4 @@
+- name: Code Review GPT
+  uses: mattzcarey/code-review-gpt@v0.5.0
 project_name_override: tabby-python-client
 package_name_override: tabby_python_client
